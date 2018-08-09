@@ -35,7 +35,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -45,8 +45,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
             "counters": true,
-            "facebook": true,
-            "twitter": true,
+            "facebook": false,
+            "twitter": false,
             "google": false
           },
           "text": "COMING SOON...",
@@ -60,7 +60,7 @@
             ".mbr-section-title": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "32px"
+              "font-size": "30px"
             }
           }
         },
@@ -97,7 +97,8 @@
           "_styles": {
             "H1": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "60px"
             },
             "P": {
               "font-family": "'Titillium Web', sans-serif",
