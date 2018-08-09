@@ -74,7 +74,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -83,7 +83,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "title": "Tech-Savvy Ballers",
           "text": "Basketball Academy for Girls<br>",
